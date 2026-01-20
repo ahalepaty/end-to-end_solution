@@ -23,4 +23,6 @@ Data profiling + quality checks
 Cleaning + standardization
 EDA visuals and summary tables
 (Optional) Narrative NLP
-Findings summary
+
+## Findings and Summary (Updates going forward)
+
