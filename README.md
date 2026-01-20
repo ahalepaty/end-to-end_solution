@@ -18,10 +18,9 @@ Source: CFPB Consumer Complaint Database (public)
 Typical fields: received date, product/issue, company, state/ZIP (partial), submission channel, company response, timeliness, consumer dispute, narrative text (if provided).
 
 ## Current Status
-
-[x] Ingest raw dataset
-[ ] Data profiling + quality checks
-[ ] Cleaning + standardization
-[ ] EDA visuals and summary tables
-[ ] (Optional) Narrative NLP
-[ ] Findings summary
+Ingest raw dataset
+Data profiling + quality checks
+Cleaning + standardization
+EDA visuals and summary tables
+(Optional) Narrative NLP
+Findings summary
