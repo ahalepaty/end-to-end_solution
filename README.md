@@ -1,6 +1,6 @@
 # Loan Risk Analysis
 
-## Goal-
+## Goal
 Enable end-to-end development and evaluation of predictive models for lending decisions by providing a synthetic, privacy-safe dataset that supports:
 Risk score regression (predict a continuous risk score)
 Loan approval classification (predict approve/deny outcome)
