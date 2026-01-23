@@ -42,4 +42,4 @@ The dataset includes the following columns:
 ## Data Changes
 1. Changed data types for 'ApplicationDate' from Object to DateTime
 2. Changed data types for 'EducationLevel', 'MaritalStatus', 'HomeOwnershipStatus', 'LoanPurpose' from Object to String
-3. 
+3. Created a new column 'RowID' and shifted it from last column to first column.
