@@ -26,9 +26,9 @@ Identity resolution, fraud verification, KYC/AML, or linking to external consume
 This is a synthetic dataset of 20,000 applicant records containing representative personal and financial attributes commonly used in credit and underwriting analytics. It includes features spanning demographics, credit history, employment status, income, existing debt, and related financial metrics, designed to simulate real-world lending signals for modeling, experimentation, and benchmarking—without using real consumer data.
 
 ## Current Status
-### Ingest raw dataset [ ]
-### Data profiling + quality checks [ ]
-### Cleaning + standardization [ ]
+### Ingest raw dataset [x]
+### Data profiling + quality checks [x]
+### Cleaning + standardization [x]
 ### 
 
 ## Findings and Summary (Updates going forward)
