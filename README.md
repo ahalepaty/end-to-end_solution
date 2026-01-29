@@ -2,7 +2,6 @@
 
 ## Goal
 Enable end-to-end development and evaluation of predictive models for lending decisions by providing a synthetic, privacy-safe dataset that supports:
-Risk score regression (predict a continuous risk score)
 Loan approval classification (predict approve/deny outcome)
 
 ## Scope
@@ -32,4 +31,6 @@ This is a synthetic dataset of 20,000 applicant records containing representativ
 ### 
 
 ## Findings and Summary (Updates going forward)
+
+## Future prospects- AUTOMATE THE MODEL
 
